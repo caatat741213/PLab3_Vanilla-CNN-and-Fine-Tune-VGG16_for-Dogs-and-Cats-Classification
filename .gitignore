@@ -1,0 +1,30 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Python & Virtual Environments ---
+**/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+CNNvenv/
+PLab3venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Data & Large Files ---
+data/
+*.zip
+*.tar.gz
+kagglecatsanddogs_5340.zip
+
+# --- Models & Training Outputs ---
+models/
+checkpoint/
+*.h5
+*.keras
+*.ckpt
