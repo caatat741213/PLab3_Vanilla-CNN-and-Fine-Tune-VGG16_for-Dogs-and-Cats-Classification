@@ -49,7 +49,7 @@ This project compares two different approaches for image classification (Cats vs
 ## 🛠️ How to Run
 1. **Clone the Repo**:
    ```bash
-   git clone <Your-Repository-URL>
+   git clone (https://github.com/caatat741213/PLab3_Vanilla-CNN-and-Fine-Tune-VGG16_for-Dogs-and-Cats-Classification.git)
     ```
 
 2. Set up the Environment:
